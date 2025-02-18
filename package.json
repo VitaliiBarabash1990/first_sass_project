@@ -5,7 +5,7 @@
 	"type": "module",
 	"scripts": {
 		"dev": "vite",
-		"build": "vite build --base=/first_sass_project /",
+		"build": "vite build --base=/first_sass_project/",
 		"preview": "vite preview",
 		"watch": "npx vite build --watch"
 	},
